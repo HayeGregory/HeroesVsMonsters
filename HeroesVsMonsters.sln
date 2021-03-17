@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroesVsMonsters", "HeroesVsMonsters\HeroesVsMonsters.csproj", "{25EBE034-EFC8-4D0C-B605-4AC0182AA31E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{0EB10E50-20BE-4BA1-8CB8-ACE5AD77C2F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25EBE034-EFC8-4D0C-B605-4AC0182AA31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25EBE034-EFC8-4D0C-B605-4AC0182AA31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25EBE034-EFC8-4D0C-B605-4AC0182AA31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25EBE034-EFC8-4D0C-B605-4AC0182AA31E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB10E50-20BE-4BA1-8CB8-ACE5AD77C2F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB10E50-20BE-4BA1-8CB8-ACE5AD77C2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB10E50-20BE-4BA1-8CB8-ACE5AD77C2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB10E50-20BE-4BA1-8CB8-ACE5AD77C2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FFCF03B-221C-4DF8-B5B1-9E106CA5EF48}
+	EndGlobalSection
+EndGlobal
